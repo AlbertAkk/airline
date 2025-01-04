@@ -30,28 +30,28 @@ Source: https://www.kaggle.com/datasets/iamsouravbanerjee/airline-dataset/data
 ## Project Objectives:
 The objective of this project is to analyze airline dataset and uncover insights to improve operations and understand passenger trends:
 
-1. Data Cleaning & Preparation:
+1.Data Cleaning & Preparation:
 
 - Handle missing or invalid data (e.g., NULL values, duplicates).
 - Standardize column formats (e.g., capitalizing names).
 - Create derived columns (e.g., age group categorization).
   
-2. Descriptive Analytics:
+2.Descriptive Analytics:
 
 - Analyze passenger age, gender, and nationality distributions.
 - Calculate flight status (on-time, delayed, canceled) percentages.
   
-3. Popularity & Ranking:
+3.Popularity & Ranking:
 
 - Identify the most popular destinations, pilots, and airports.
 - Rank passengers by the number of flights taken.
   
-4. Routes & Destinations:
+4.Routes & Destinations:
 
 - Analyze frequent flight routes and top destinations by country.
 - Focus on Canadian passenger preferences.
   
-5. Temporal Trends:
+5.Temporal Trends:
 
 - Analyze seasonal travel patterns and monthly passenger counts.
 - Identify the most popular months for travel by continent.
