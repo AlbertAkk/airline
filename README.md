@@ -41,7 +41,7 @@ The objective of this project is to analyze airline dataset and uncover insights
 - Analyze passenger age, gender, and nationality distributions.
 - Calculate flight status (on-time, delayed, canceled) percentages.
   
-3.Popularity & Ranking:
+3. Popularity & Ranking:
 
 - Identify the most popular destinations, pilots, and airports.
 - Rank passengers by the number of flights taken.
